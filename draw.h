@@ -1,0 +1,2 @@
+//prototypes
+//void drawBird(BIRDSTRUCT*);

@@ -1,0 +1,1 @@
+There is changing text for the number of games lost, if pause is pressed 2 times after a loss, the number is updated.
